@@ -39,3 +39,8 @@ optional argument to specify the color of the highlights. If more than one input
 
 Options: red, blue, green, yellow, magenta, cyan; or RGB color value in the form [X.X, X.X, X.X]
 ```
+# TODO
+- Add options for pageranges and options to exclude pages
+- Create default wordlists to use when none are specified
+- Make code more efficient by calling "Annot.update" fewer times
+- Create installable commandline tool, or figure out a way to add "python3 /path/to/pdf-word-highlighter.py" to the PATH 
