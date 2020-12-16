@@ -38,7 +38,7 @@ optional output file name, will default to prepending 'marked-' to the original 
 optional argument to specify the color of the highlights. If more than one input  word(list) is provided, the colors will be applied in the same order as the input word(lists), defaulting to yellow if the specified colors >2 but <#wordlists. If m ultiple wordlists are provided but only one color, that color will be applied to all. Defaults to yellow. 
 
 Options: red, blue, green, yellow, magenta, cyan; or RGB color value in the form [X.X, X.X, X.X]
-```
+
 # TODO
 - Add options for pageranges and options to exclude pages
 - Create default wordlists to use when none are specified
